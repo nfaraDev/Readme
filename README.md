@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fara Chacon Natalia</h1>
+<h1 align="center">Hi 👋, I'm Natalia Fara Chacon </h1>
 <h3 align="center">My goal is to continuously learn and improve my skills in backend Java development, software architecture, and problem-solving.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nfaradev&label=Profile%20views&color=0e75b6&style=flat" alt="nfaradev" /> </p>
