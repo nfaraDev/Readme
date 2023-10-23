@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/nfaraDev](https://github.com/nfaraDev)
 
-- 📫 How to reach me **(Discord) nataliafarajava**
+- 📫 How to reach me **programanat851@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
