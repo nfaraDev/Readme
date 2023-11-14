@@ -11,6 +11,7 @@
   
 
 <h3 align="left">Skills</h3>
+<p align="left">
 - Programming Languages: Java & Golang. 
 - Backend Development: Java & Spring Framework.
 - Systems management: Consul.
