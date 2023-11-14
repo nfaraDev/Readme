@@ -4,9 +4,10 @@
 - 🔭 I’m currently working on **SpringtBoot-IT-Academy-Proyect**
 - 🌱 I’m currently learning **Java y Spring Framework**
 - 🌱 Bootcamp de Desarrollo Web.
-- 💬 Pregúntame sobre Java y Spring Framework, paquete de oficina de Microsft.
+- 💬 Ask me about Java and Spring Framework, Microsoft's office suite.
 - 👨‍💻 All of my projects are available at [https://github.com/nfaraDev](https://github.com/nfaraDev)
-- 📫 How to reach me **programanat851@gmail.com**
+- 📫 How to reach me **programanat851@gmail.com** Let's connect and collaborate!
+- 
 
 <h3 align="left">Skills</h3>
 Programming Languages: Java & Golang. 
