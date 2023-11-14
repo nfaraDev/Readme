@@ -6,8 +6,9 @@
 - 🌱 Bootcamp de Desarrollo Web.
 - 💬 Ask me about Java and Spring Framework, Microsoft's office suite.
 - 👨‍💻 All of my projects are available at [https://github.com/nfaraDev](https://github.com/nfaraDev)
-- 📫 How to reach me **programanat851@gmail.com** Let's connect and collaborate!
-- 
+- 📫 How to reach me **programanat851@gmail.com**
+- Let's connect and collaborate!
+  
 
 <h3 align="left">Skills</h3>
 Programming Languages: Java & Golang. 
