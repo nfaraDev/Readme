@@ -11,17 +11,17 @@
   
 
 <h3 align="left">Skills</h3>
--Programming Languages: Java & Golang. 
--Backend Development: Java & Spring Framework.
--Systems management: Consul.
--Platform and toolset: Docker.
--Database Technologies: MySQL,MongoDB & Postgress.
--Version Control: Git & GitHub.
--Testing and QA: Reactive Testing, JUnit Testing & Mockito.
--Other Tools and Frameworks: Eclipse, Visual Code & IntelliJ IDEA.
--API Testing and Documentation: Postman & Swagger (OpenAPI)
--Methodology: Agile-SCRUM
--Currently learning: 
+- Programming Languages: Java & Golang. 
+- Backend Development: Java & Spring Framework.
+- Systems management: Consul.
+- Platform and toolset: Docker.
+- Database Technologies: MySQL,MongoDB & Postgress.
+- Version Control: Git & GitHub.
+- Testing and QA: Reactive Testing, JUnit Testing & Mockito.
+- Other Tools and Frameworks: Eclipse, Visual Code & IntelliJ IDEA.
+- API Testing and Documentation: Postman & Swagger (OpenAPI)
+- Methodology: Agile-SCRUM
+- Currently learning: 
     HTML, CSS, Javascript, React, Python,etc....
 
 <h3 align="left">Connect with me:</h3>
