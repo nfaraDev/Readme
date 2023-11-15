@@ -45,20 +45,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/nfaraDev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="nfaraDev" /></a></p><br><br>
 
-<h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/nfaraDev&layout=compact&theme=" alt=https://github.com/nfaraDev />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=https://github.com/nfaraDev&show_icons=true&locale=en&theme=" alt="https://github.com/nfaraDev" /></p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
-<div align="center">
-<a href="https://github.com/https://github.com/nfaraDev">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=https://github.com/nfaraDev&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=https://github.com/nfaraDev&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=https://github.com/nfaraDev&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=https://github.com/nfaraDev&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=https://github.com/nfaraDev&theme=2077" height="180em" />
-</div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=https://github.com/nfaraDev&theme=default"/>
 
