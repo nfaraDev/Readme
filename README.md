@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Project 1](IT-Academy-BCN-ita-challenges-backend)
 - 👯 I’m looking to collaborate on [Project ](IT-Academy-BCN-ita-challenges-backend)
-- 🌱 I’m currently learning **Java & Spring Framework.**
+- 🌱 I’m currently learning **Java Reactive, Docker.**
 - 💬 Ask me about ** Java & Spring Framework**
 - 📫 How to reach me **programanat851@gmail.com **
 - 👨‍💻 All of my projects are available at **https://github.com/nfaraDev?tab=repositories**
