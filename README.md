@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on [Project 1-(IT-Academy-BCN-ita-challenges-backend)]
+- 🔭 I’m currently working on [Project 1][(IT-Academy-BCN-ita-challenges-backend)]
 - 👯 I’m looking to collaborate on [Project (IT-Academy-BCN-ita-challenges-backend)]
 - 🌱 I’m currently learning **Java Reactive, Docker.**
 - 💬 Ask me about ** Java & Spring Framework**
