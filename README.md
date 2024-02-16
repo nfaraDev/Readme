@@ -4,14 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=https://github.com/nfaraDev&label=Profile%20views&color=0e75b6&style=flat" alt="https://github.com/nfaraDev" /> </p>
 
 
-
-- 🔭 I’m currently working on [Project 1](IT-Academy-BCN-ita-challenges-backend)
-- 👯 I’m looking to collaborate on [Project (IT-Academy-BCN-ita-challenges-backend)]
 - 🌱 I’m currently learning **Java Reactive, Docker.**
 - 💬 Ask me about ** Java & Spring Framework**
 - 📫 How to reach me **programanat851@gmail.com **
 - 👨‍💻 All of my projects are available at **https://github.com/nfaraDev?tab=repositories**
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **I think I am brave & funny**
 
 <div> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/natalia-fara-chac%C3%B3n-6b13632a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/https://github.com/nfaraDev" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
